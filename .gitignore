@@ -1,0 +1,7 @@
+# Ignore large model files
+*.pkl
+random_forest_theft_model.pkl
+
+# Ignore large dataset files
+*.csv
+electricity_theft_detection file.csv
